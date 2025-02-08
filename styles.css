@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header b{
+    color: rgb(9, 9, 109);
+    
+}
+
+header {
+    border: 5px;
+    border-color: rgb(0, 0, 255);
+    border-radius: 20px 20px 20px 20px;
+    border-style:solid;
+    padding: 10px;
+}
+
+header a {
+    color: white;
+    background-color: blue;
+    border-color: rgb(0, 0, 255);
+    border-radius: 4px;
+    border-style:solid;
+}
+
+h1 {
+    color: rgb(19, 64, 212);
+    text-align: center;
+}
+
+footer p {
+    border-style:solid;
+    border-color: rgb(128, 128, 128);
+    border-width: 2px;
+}
+
